@@ -10,6 +10,3 @@ It contains the following basics:\
 --> Creating a dataframe from scratch\
 --> Central Park Squirrel Data Analysis
 
-
-It is absolutely based on Object-Oriented Programming and Classes
-
